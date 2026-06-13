@@ -66,13 +66,6 @@ Interactive dashboard showing:
 
 ---
 
-## 📜 Certifications (In Progress)
-- Kaggle Python Certificate
-- Kaggle Pandas Certificate
-- Kaggle SQL Certificate
-
----
-
 ## 🎯 Currently
 - Building Data Analyst portfolio
 - Looking for remote/WFH Data Analyst internship opportunities
